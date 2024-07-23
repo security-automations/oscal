@@ -1,5 +1,5 @@
 
-Lists of 90 third-party dependencies.
+Lists of 91 third-party dependencies.
      (The Apache Software License, Version 2.0) Handy URI Templates (com.damnhandy:handy-uri-templates:2.1.8 - https://github.com/damnhandy/Handy-URI-Templates)
      (The Apache Software License, Version 2.0) Jackson-annotations (com.fasterxml.jackson.core:jackson-annotations:2.16.1 - https://github.com/FasterXML/jackson)
      (The Apache Software License, Version 2.0) Jackson-core (com.fasterxml.jackson.core:jackson-core:2.16.1 - https://github.com/FasterXML/jackson-core)
@@ -54,7 +54,7 @@ Lists of 90 third-party dependencies.
      (NIST License) Metaschema CLI Framework (gov.nist.secauto.metaschema:cli-processor:1.0.0-M2-SNAPSHOT - http://maven.apache.org)
      (NIST License) Metaschema Command Line Tool (gov.nist.secauto.metaschema:metaschema-cli:1.0.0-M2-SNAPSHOT - https://pages.nist.gov/metaschema-java/metaschema-cli/)
      (NIST License) Metaschema Core API (gov.nist.secauto.metaschema:metaschema-core:1.0.0-M2-SNAPSHOT - https://pages.nist.gov/metaschema-java/metaschema-core/)
-     (NIST License) Metaschema Java Data/Object Binding and Code Generation (gov.nist.secauto.metaschema:metaschema-databind:1.0.0-M2-SNAPSHOT - https://pages.nist.gov/metaschema-java/metaschema-databind/)
+     (NIST License) Metaschema Java Data Binding and Code Generation (gov.nist.secauto.metaschema:metaschema-databind:1.0.0-M2-SNAPSHOT - https://pages.nist.gov/metaschema-java/metaschema-databind/)
      (NIST License) Metaschema Modules (gov.nist.secauto.metaschema:metaschema-databind-modules:1.0.0-M2-SNAPSHOT - https://pages.nist.gov/metaschema-java/metaschema-databind-modules/)
      (NIST License) Metaschema XML and JSON Schema Generator (gov.nist.secauto.metaschema:metaschema-schema-generator:1.0.0-M2-SNAPSHOT - https://pages.nist.gov/metaschema-java/metaschema-schema-generator/)
      (NIST License) OSCAL Java Library (gov.nist.secauto.oscal:liboscal-java:3.0.4-SNAPSHOT - https://github.com/usnistgov/liboscal-java)
@@ -75,6 +75,7 @@ Lists of 90 third-party dependencies.
      (The Apache License, Version 2.0) org.apiguardian:apiguardian-api (org.apiguardian:apiguardian-api:1.1.2 - https://github.com/apiguardian-team/apiguardian)
      (The MIT License) Checker Qual (org.checkerframework:checker-qual:3.33.0 - https://checkerframework.org/)
      (The BSD 2-Clause License) Stax2 API (org.codehaus.woodstox:stax2-api:4.2.2 - http://github.com/FasterXML/stax2-api)
+     (Eclipse Public License - v 2.0) JDT Annotations for Enhanced Null Analysis (org.eclipse.jdt:org.eclipse.jdt.annotation:2.3.0 - https://projects.eclipse.org/projects/eclipse.jdt)
      (Apache License, Version 2.0) Jansi (org.fusesource.jansi:jansi:2.4.1 - http://fusesource.github.io/jansi)
      (Similar to Apache License but with the acknowledgment clause removed) JDOM (org.jdom:jdom2:2.0.6.1 - http://www.jdom.org)
      (The Apache Software License, Version 2.0) JetBrains Java Annotations (org.jetbrains:annotations:24.0.1 - https://github.com/JetBrains/java-annotations)
